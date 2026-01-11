@@ -194,3 +194,10 @@ UPDATE medicos SET em_atividade = FALSE WHERE id_medico IN (1, 8);
 UPDATE medicos SET em_atividade = TRUE WHERE id_medico NOT IN (1, 8);
 ```
 
+## Autor
+
+<div>
+  <a href="https://github.com/christianwl">
+    <img src="https://contrib.rocks/image?repo=christianwl/banco_de_dados_hospital" alt="foto do(s) autor(es)"/>
+  </a>
+</div>
